@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>👋 Hi, I’m @rishi-shah-1</h1>
+        <h1>👋 Hi, I’m Rishi Shah a.k.a @rishi-shah-1</h1>
         <p class="fun-fact">⚡ Fun fact: I am the president of the Computer Science Honor Society in my school and Vice President of the Technology Student Association</p>
         <p class="interests">👀 I’m interested in gaining more experience in coding using Java, Python, HTML/CSS</p>
         <p class="learning">🌱 I’m currently learning Python</p>
