@@ -1,54 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Rishi Shah's GitHub Bio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 2rem;
-            background: #fff;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        h1 {
-            color: #4caf50;
-        }
-        p {
-            font-size: 1.2rem;
-            line-height: 1.6;
-        }
-        .fun-fact, .interests, .learning, .contact, .pronouns {
-            margin: 1rem 0;
-        }
-        a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>👋 Hi, I’m Rishi Shah a.k.a @rishi-shah-1</h1>
-        <p class="fun-fact">⚡ <strong>Fun fact:</strong> I am the president of the Computer Science Honor Society in my school and Vice President of the Technology Student Association.</p>
-        <p class="interests">👀 <strong>I’m interested in:</strong> Gaining more experience in coding using Java, Python, HTML/CSS.</p>
-        <p class="learning">🌱 <strong>Currently learning:</strong> Python and improving my coding skills.</p>
-        <p class="contact">📫 <strong>How to reach me:</strong> <a href="mailto:shahrishi758@gmail.com">shahrishi758@gmail.com</a></p>
-        <p class="pronouns">😄 <strong>Pronouns:</strong> He/Him</p>
-    </div>
-</body>
-</html>
+# 👋 Hi, I'm **Rishi Shah**
+
+🌟 **CS Enthusiast | Data Scientist | Developer**
+
+---
+
+## 🚀 **About Me**
+- **CSHS President** and **CS Club President**, leading a diverse team of students in **coding competitions**, **hackathons**, and **innovative tech projects**
+- **TSA (Technology Student Association) President**, overseeing team development and leading the charge in **coding challenges**, **STEM advocacy**, and **tech events**
+- Founder of **RS Holdings International LLC** and **The Small Business Supporter Initiative**, helping small businesses grow with tech-driven solutions
+- Passionate about **management information systems**, **data science**, **AI**, and **cybersecurity** with a focus on **scalable solutions**, **machine learning**, and **data-driven decision making**
+
+---
+
+## 💻 **What I Do**
+- **Software Development:** Proficient in Python, Java, and full-stack development for building real-world applications
+- **Data Science:** I leverage data to solve problems, having created predictive models and dashboards that enhanced decision-making for nonprofits and small businesses
+- **Leadership:** As president of multiple clubs, I organize coding bootcamps, industry networking events, and problem-solving sessions with peers
+
+---
+
+## 🏆 **Accomplishments**
+- **2nd Place in TSA Coding** - Developed a web app for real-time data analysis using Flask and JavaScript
+- Built a **data science curriculum** to integrate machine learning and data visualization into high school education
+
+---
+
+## 📂 **Tech Stack**
+- **Languages:** Python, Java, SQL, JavaScript  
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Frameworks & Tools:** Flask, React, Node.js, Salesforce  
+- **Cloud Platforms:** AWS, Google Cloud  
+- **Interests:** Cloud computing, AI/ML, cybersecurity, and management information systems
+
+---
+
+## 🌐 **Let’s Connect**
+- 💌 Reach me at **[Your Email]**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/therealrishishah/)
