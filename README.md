@@ -35,5 +35,5 @@
 ---
 
 ## 🌐 **Let’s Connect**
-- 💌 Reach me at **[Your Email]**
+- 💌 Reach me at **[Shahrishi758@gmail.com]**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/therealrishishah/)
