@@ -28,10 +28,9 @@
 ---
 
 ## 📂 **Tech Stack**
-- **Languages:** Python, Java, SQL, JavaScript  
+- **Languages:** Html, Css, Python, Java, JavaScript  
 - **Data Science Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Frameworks & Tools:** Flask, React, Node.js, Salesforce  
-- **Cloud Platforms:** AWS, Google Cloud  
+- **Cloud Platforms:** Salesforce, Google Cloud  
 - **Interests:** Cloud computing, AI/ML, cybersecurity, and management information systems
 
 ---
