@@ -2,6 +2,7 @@
 
 🌟 **CS Enthusiast | Data Scientist | Developer**
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rishi-shah-1)
 ---
 
 ## 🚀 **About Me**
@@ -27,7 +28,6 @@
 
 ---
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rishi-shah-1)
 
 
 ## 📂 **Tech Stack**
