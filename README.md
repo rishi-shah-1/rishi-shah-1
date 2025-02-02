@@ -27,6 +27,9 @@
 
 ---
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rishi-shah-1)
+
+
 ## 📂 **Tech Stack**
 - **Languages:** Html, Css, Python, Java, JavaScript  
 - **Cloud Platforms:** Salesforce, Google Cloud  
