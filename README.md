@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Rishi Shah**
 
-🌟 **CS Enthusiast | Data Scientist | Developer**
+🌟 **CS Enthusiast | Leader | Developer**
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rishi-shah-1)
 ---
